@@ -54,7 +54,7 @@ Always learning, always building. Let’s create something great together. 🚀
 [![](https://visitcount.itsvg.in/api?id=AzrielRosadi&icon=4&color=8)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](paypal.me/azrlwebdev) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/azrlwebdev) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
