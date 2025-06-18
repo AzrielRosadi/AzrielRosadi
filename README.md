@@ -30,18 +30,19 @@ Always learning, always building. Let’s create something great together. 🚀
 
 <br />
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-<br />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AzrielRosadi&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AzrielRosadi&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AzrielRosadi&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br />
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <br />
 
