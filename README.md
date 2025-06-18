@@ -1,7 +1,8 @@
-# 💫 Hi there 👋, I'm Azriel Rosadi
+![Azriel Rosadi](img/github-header.png)
+
 **A passionate Web Developer || Fullstack Developer || Freelancer Based in Indonesia**
 
-Portfolio Me 👉 💼 **https://azrl-webdev.vercel.app/**
+Portfolio Me 👉 💼 **https://azrl-webdev.vercel.app/** or
 My Email 👉 ✉️ **azrlwebdev@gmail.com**
 For Collaboration/Project or Anything Else. 😊
 <br />
