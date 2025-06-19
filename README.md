@@ -15,7 +15,7 @@ For Collaboration/Project or Anything Else. 😊
 ## 🔗 I am a Junior Fullstack JS Engineer. 
 
 passionate about crafting responsive UIs and building solid backend systems.
-I love combining clean design with smooth interactions using tools like React, Tailwind, Motion, GSAP, ShadCn, and Node.js (Express).
+I love combining clean design with smooth interactions using tools like React, NextJs, Tailwind, Motion, GSAP, ShadCn, and Node.js (Express).
 
 Always learning, always building. Let’s create something great together. 🚀
 <br />
